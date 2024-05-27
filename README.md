@@ -1,1 +1,1 @@
-# collaboration-practice
+# Collaboration Practice
