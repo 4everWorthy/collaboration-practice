@@ -2,3 +2,4 @@ git status: Shows the working tree status
 git branch: Lists all branches
 git log: Shows the commit history
 
+git remote -v: Shows remote connections
